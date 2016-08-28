@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<format>
+<fields>
+<field name="compte" caption="Compte" type="alpha" max="10"/>
+<field name="intitule" caption="Intitule" type="alpha", max="80"/>
+<field name="AN" caption="A-Nouveau" type="decimal"/>
+<field name="debit" Caption="D‚bit" type="decimal"/>
+<field name="credit" />
+<field name="solde" />
+</fields>
+</format>
