@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <format>
 <fields>
-<field name="compte" caption="Compte" type="alpha" max="10"/>
+<field name="compte" caption="Compte" type="alpha" max="17"/>
 <field name="intitule" caption="Intitulé" type="alpha", max="80"/>
 <field name="AN" caption="A-Nouveau" type="decimal"/>
 <field name="debit" Caption="Débit" type="decimal"/>
