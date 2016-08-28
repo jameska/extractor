@@ -4,9 +4,9 @@
 <field name="compte" caption="Compte" type="alpha" max="10"/>
 <field name="intitule" caption="Intitulé" type="alpha", max="80"/>
 <field name="AN" caption="A-Nouveau" type="decimal"/>
-<field name="debit" Caption="Débit" type="decimal"/>
-<field name="credit"  Caption="Crédit" type="decimal"/>
-<field name="solde"  Caption="Solde" type="decimal"/>
-<field name="solde_1"  Caption="Solde N-1" type="decimal"/>
+<field name="debit" caption="Débit" type="decimal"/>
+<field name="credit"  caption="Crédit" type="decimal"/>
+<field name="solde"  caption="Solde" type="decimal"/>
+<field name="solde_1" caption="Solde N-1" type="decimal"/>
 </fields>
 </format>
