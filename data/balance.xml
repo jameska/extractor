@@ -7,5 +7,6 @@
 <field name="debit" Caption="Débit" type="decimal"/>
 <field name="credit"  Caption="Crédit" type="decimal"/>
 <field name="solde"  Caption="Solde" type="decimal"/>
+<field name="solde_1"  Caption="Solde N-1" type="decimal"/>
 </fields>
 </format>
